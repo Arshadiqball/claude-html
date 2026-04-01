@@ -57,10 +57,6 @@ python3 sudo_exploit.py
 
 import os
 
-#Get current username
-
-username = input("Enter current username :")
-
 
 #check which binary the user can run with sudo
 
